@@ -3,7 +3,7 @@
 Cybersecurity student and IT Infrastructure Analyst building network-security tools, investigating how attacks work in controlled labs, and testing and documenting the results.
 
 - **Education:** George Mason University, B.A.S. in Cybersecurity (expected 2027); cybersecurity studies at Northern Virginia Community College.
-- **Experience:** IT Infrastructure Analyst at Inova; previously worked in SOC monitoring, incident investigation, and DDoS mitigation at DigiCert / Vercara.
+- **Experience:** IT Infrastructure Analyst at Inova; previously worked in SOC monitoring, incident investigation, and DDoS mitigation at DigiCert / Vercara as an InfoSec Engineer.
 - **Looking for:** Summer 2027 cybersecurity internships and entry-level opportunities in security engineering, SOC analysis, incident response, and network security.
 
 ## Featured projects
