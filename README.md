@@ -1,18 +1,18 @@
 # Behrooz Koshani
 
-Cybersecurity student and IT infrastructure analyst building practical network-security tools, documenting authorized security labs, and learning how to turn technical findings into actionable security insights.
+Cybersecurity student and IT Infrastructure Analyst building network-security tools, investigating how attacks work in controlled labs, and testing and documenting the results.
 
 - **Education:** George Mason University, B.A.S. in Cybersecurity (expected 2027); cybersecurity studies at Northern Virginia Community College.
-- **Experience:** IT Infrastructure Analyst at Inova; previously worked in security monitoring, alert investigation, and DDoS defense at DigiCert / Vercara.
-- **Certifications:** CompTIA Security+, CompTIA Network+, and Splunk Core Certified User.
-- **Looking for:** Summer 2027 cybersecurity internships and opportunities in security engineering, SOC analysis, incident response, and network security.
+- **Experience:** IT Infrastructure Analyst at Inova; previously worked in SOC monitoring, incident investigation, and DDoS mitigation at DigiCert / Vercara.
+- **Looking for:** Summer 2027 cybersecurity internships and entry-level opportunities in security engineering, SOC analysis, incident response, and network security.
 
 ## Featured projects
 
-- **[Simple TCP Port Scanner](https://github.com/behroozkoshani/simple-port-scanner):** C++20 TCP connect scanner with bounded multithreading, port validation, JSON/CSV reports, and documented localhost tests and screenshots.
-- **[Metasploit Attack Simulation Lab](https://github.com/behroozkoshani/metasploit-attack-simulation-lab):** Authorized Kali Linux and Windows VM exercise documenting simulated phishing, a reverse TCP connection, test-file retrieval, and defensive takeaways.
-- **[Cybersecurity Portfolio](https://behroozkoshani.github.io/):** My portfolio site featuring hands-on projects, certifications, technical skills, and professional experience.
+- **[simple-port-scanner](https://github.com/behroozkoshani/simple-port-scanner)**: a C++20 TCP connect scanner with configurable port ranges, bounded multithreading, timeouts, and JSON/CSV reporting. Tested against temporary localhost services with nine automated integration tests and six real terminal screenshots. [Test evidence](https://github.com/behroozkoshani/simple-port-scanner/blob/main/docs/TEST_EVIDENCE.md).
+- **[metasploit-attack-simulation-lab](https://github.com/behroozkoshani/metasploit-attack-simulation-lab)**: an authorized Kali Linux and Windows virtual-machine exercise documenting simulated phishing, payload execution, a reverse TCP session, and retrieval of a test file. Includes nine screenshots, step-by-step commands, and defensive takeaways. [Lab walkthrough](https://github.com/behroozkoshani/metasploit-attack-simulation-lab#procedure-and-commands-used).
+
+All repositories: [github.com/behroozkoshani?tab=repositories](https://github.com/behroozkoshani?tab=repositories)
 
 ## Links
 
-[Portfolio](https://behroozkoshani.github.io/) · [Resume (PDF)](https://behroozkoshani.github.io/Behrooz_Koshani_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/behrooz-koshani) · [All repositories](https://github.com/behroozkoshani?tab=repositories)
+[Portfolio](https://behroozkoshani.github.io/) · [Resume (PDF)](https://behroozkoshani.github.io/Behrooz_Koshani_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/behrooz-koshani)
